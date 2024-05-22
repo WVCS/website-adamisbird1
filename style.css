@@ -1,3 +1,26 @@
-body {
+nav {
+  list-style-type:none;
+  position: fixed;
+  background-color: white;
+  Color: black;
+  width: 100vw; 
+  Font-size:50px;
+  top: 0;
+  left: 0;
+  right: 0;
 
+}
+
+li{
+  Display: inline;
+  padding: 200px;
+  
+}
+
+a{
+  text-decoration:none;
+  Color:black
+}
+a:hover {
+  Color: grey;
 }
