@@ -1,3 +1,19 @@
 <html>
-
+ <head>
+   <link rel="stylesheet" href="style.css">
+</head>
+ <body>
+  
+       <nav>
+        <center>
+          <li><a hred="index.html"> Home </a></li>
+         <li> <a hred="Projects.html"> Projects <a/></li>
+         <li><a hred="About Me.html"> About me <a/></li>
+              </nav>
+           <nav>
+        <center>
+        <li>Home</li>
+         <li>Projects</li>
+         <li>About me </li>
+              </nav>
 </html>
