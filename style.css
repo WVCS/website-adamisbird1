@@ -1,26 +1,28 @@
+ h3 {
+  center
+  color: cyan;
+  font-size: 60px;
+  Text-align: center;
+}
+
+body {
+  background-color: #6B8A7A;  
+}
+ 
 nav {
   list-style-type:none;
   position: fixed;
-  background-color: white;
-  Color: black;
+  background-color: #B7B597;
+  Color: #254336;
   width: 100vw; 
   Font-size:50px;
   top: 0;
   left: 0;
   right: 0;
-
 }
 
 li{
   Display: inline;
   padding: 200px;
   
-}
-
-a{
-  text-decoration:none;
-  Color:black
-}
-a:hover {
-  Color: grey;
 }
